@@ -1,2 +1,3 @@
 This is file2.txt
 Additional line in file2
+change in newfeature branch to file2
